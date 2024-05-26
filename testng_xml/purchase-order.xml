@@ -5,16 +5,12 @@
 		<listener class-name="com.adarsh.tests.components.Listeners"></listener>
 	</listeners>
 
-	
+
 	<test thread-count="5" name="Submit Order Test">
 		<classes>
 			<class name="com.adarsh.tests.PlaceOrder" />
 		</classes>
 	</test>
-	
-	<test thread-count="5" name="Error Validation Test">
-		<classes>
-			<class name="com.adarsh.tests.ErrorValidations" />
-		</classes>
-	</test>
+
+
 </suite>

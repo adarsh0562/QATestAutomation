@@ -8,7 +8,7 @@ public class ExtentReportNG {
 	
 	public static ExtentReports getExtentReport()
 	{
-		String path = System.getProperty("user.dir")+"//report//index.html";
+		String path = System.getProperty("user.dir")+"//report//testng//index.html";
 		
 		ExtentSparkReporter reporter = new ExtentSparkReporter(path);
 		reporter.config().setDocumentTitle("Adarsh Raj Testing Academy");

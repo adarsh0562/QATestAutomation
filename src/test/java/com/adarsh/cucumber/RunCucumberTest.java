@@ -7,7 +7,7 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(
     features = "src/test/java/com/adarsh/cucumber",
     glue = "com/adarsh/stepdefinitions",
-    plugin = {"pretty", "html:report/cucumber-reports.html"},
+    plugin = {"pretty", "html:report/cucumber/index.html"},
     monochrome = true,
     tags="@ErrorValidation"
 )
