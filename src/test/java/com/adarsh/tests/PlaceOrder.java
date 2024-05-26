@@ -20,7 +20,7 @@ public class PlaceOrder extends BaseTest {
     @Test(dataProvider= "getData")
     public void purchaseOrder(HashMap<String, String> input) throws IOException, InterruptedException {
         // Ensure prop is initialized
-        Assert.assertNotNull(prop, "Properties object is not initialized");
+        Assert.assertNotNull(prop, "Properties object is not initialized.");
 
         ProductsCatalog productsCatalog = landingPage.userLogin(input.get("loginUserEmail"), input.get("loginUserPassword"));
         productsCatalog.addToCart(input.get("productName"));
