@@ -1,8 +1,8 @@
-C:\Users\catty\eclipse-workspace\adarsh\src\main\java\com\adarsh\pageobjects\ProductsCatalog.java
-C:\Users\catty\eclipse-workspace\adarsh\src\main\java\com\adarsh\pageobjects\ConfirmationPage.java
-C:\Users\catty\eclipse-workspace\adarsh\src\main\java\com\adarsh\pageobjects\OrdersHistoryPage.java
-C:\Users\catty\eclipse-workspace\adarsh\src\main\java\com\adarsh\pageobjects\CheckoutPage.java
-C:\Users\catty\eclipse-workspace\adarsh\src\main\java\com\adarsh\pageobjects\LandingPage.java
-C:\Users\catty\eclipse-workspace\adarsh\src\main\java\com\adarsh\abstractcommons\AbstractCommons.java
-C:\Users\catty\eclipse-workspace\adarsh\src\main\java\com\adarsh\resources\ExtentReportNG.java
-C:\Users\catty\eclipse-workspace\adarsh\src\main\java\com\adarsh\pageobjects\CartPage.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\main\java\com\adarsh\pageobjects\CartPage.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\main\java\com\adarsh\pageobjects\LandingPage.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\main\java\com\adarsh\abstractcommons\AbstractCommons.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\main\java\com\adarsh\pageobjects\CheckoutPage.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\main\java\com\adarsh\pageobjects\OrdersHistoryPage.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\main\java\com\adarsh\pageobjects\ConfirmationPage.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\main\java\com\adarsh\pageobjects\ProductsCatalog.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\main\java\com\adarsh\resources\ExtentReportNG.java

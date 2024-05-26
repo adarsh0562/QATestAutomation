@@ -1,8 +1,8 @@
-C:\Users\catty\eclipse-workspace\adarsh\src\test\java\com\adarsh\tests\components\Retry.java
-C:\Users\catty\eclipse-workspace\adarsh\src\test\java\com\adarsh\tests\components\BaseTest.java
-C:\Users\catty\eclipse-workspace\adarsh\src\test\java\com\adarsh\tests\components\Listeners.java
-C:\Users\catty\eclipse-workspace\adarsh\src\test\java\com\adarsh\tests\PlaceOrder.java
-C:\Users\catty\eclipse-workspace\adarsh\src\test\java\com\adarsh\cucumber\RunCucumberTest.java
-C:\Users\catty\eclipse-workspace\adarsh\src\test\java\com\adarsh\stepdefinitions\PurchaseOrderSteps.java
-C:\Users\catty\eclipse-workspace\adarsh\src\test\java\com\adarsh\tests\ErrorValidations.java
-C:\Users\catty\eclipse-workspace\adarsh\src\test\java\com\adarsh\tests\ShoppingApp.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\test\java\com\adarsh\tests\ShoppingApp.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\test\java\com\adarsh\cucumber\RunCucumberTest.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\test\java\com\adarsh\tests\components\Listeners.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\test\java\com\adarsh\tests\components\BaseTest.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\test\java\com\adarsh\tests\ErrorValidations.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\test\java\com\adarsh\tests\components\Retry.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\test\java\com\adarsh\stepdefinitions\PurchaseOrderSteps.java
+F:\QA_Automation_CICD\QATestAutomation\QAShoppingApp\src\test\java\com\adarsh\tests\PlaceOrder.java
