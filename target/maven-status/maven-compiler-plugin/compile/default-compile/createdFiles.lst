@@ -1,0 +1,8 @@
+com\adarsh\pageobjects\ProductsCatalog.class
+com\adarsh\abstractcommons\AbstractCommons.class
+com\adarsh\pageobjects\CheckoutPage.class
+com\adarsh\pageobjects\OrdersHistoryPage.class
+com\adarsh\pageobjects\LandingPage.class
+com\adarsh\resources\ExtentReportNG.class
+com\adarsh\pageobjects\ConfirmationPage.class
+com\adarsh\pageobjects\CartPage.class
